@@ -1,1 +1,1 @@
-# java-scala-test
+# java-scala-test project
